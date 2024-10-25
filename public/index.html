@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>AI Super App</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="stylesheet.css">   
+  </head>
+  <body>
+    <h1>AI Super App!</h1>
+    <p>Welcome to the AI App! This app leverages the power of Artificial Intelligence APIs to provide text summaries and generate images. Whether you want to summarize text or create images from descriptions, our app can assist you. This is an experiment!</p>
+    <p>Select your desired action and input your text below.</p>
+    <div class="container">
+      <div class="text-box">
+        <select id="action-selector" class="action-selector">
+          <option value="summarize">Summarize Text</option>
+          <option value="generate-image">Generate Image</option>
+        </select>
+        <textarea id="text_to_summarize" name="text_to_summarize" placeholder="Paste in some text to summarize. (Min length is 200 chars. Max length is 100,000 chars.)" maxlength="100000"></textarea>
+        <button id="submit-button" class="submit-button">
+          <span class="submit-button-text">Submit</span>
+        </button>
+      </div>
+      <div class="text-box" id="result-container"> 
+        <textarea id="summary" name="summarized_text" placeholder="Result will appear here"></textarea>
+      </div>
+    </div>
+    <section class="cta-section">
+      <div class="cta-content">
+        <div class="cta-text">
+          <h2>Curious how to build this app?</h2>
+          <p>Join Postman's Student Program and elevate your software development and API knowledge to help you in your career.</p>
+          <a href="https://www.postman.com/student-program/student-expert/?utm_campaign=CGC&utm_medium=referral&utm_source=internal&utm_term=pbl-skilljar&utm_content=pbl_summariser_app" class="cta-button" target="_blank" rel="noopener nofollow">Register as student</a>
+        </div>
+        <img src="images/learning.png" alt="Learning illustration">
+      </div>
+    </section>
+    <script src="script.js"></script>
+  </body>
+</html>
