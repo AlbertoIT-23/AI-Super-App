@@ -1,2 +1,2 @@
 # Add Procfile in root directory
-web: node index.js
+web: node index.jseb create my-AI-Super-App-env
