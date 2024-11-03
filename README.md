@@ -6,9 +6,9 @@ A full-stack web application that combines AI-powered text summarization and ima
 ## Academic Context
 - **Institution**: Bachelor of Modern Computer Science at OPIT
 - **Related Courses**: 
-  - Introduction to Software Engineering (Professor Fatma Meawad)
-  - Cloud Computing (Professor Lokesh Vij)
-  - Cloud Development (Professor Lokesh Vij)
+  - Introduction to Software Engineering ([Professor Fatma Meawad](https://www.linkedin.com/in/fmeawad/))
+  - Cloud Computing ([Professor Lokesh Vij](https://www.linkedin.com/in/lokeshvij/))
+  - Cloud Development ([Professor Lokesh Vij](https://www.linkedin.com/in/lokeshvij/))
 - **Certifications**:
   - AWS Certified Cloud Practitioner
   - Postman Student Expert ([Verification](http://verify.skilljar.com/c/syu6bxk7ajh3))
@@ -118,8 +118,8 @@ This project demonstrates the practical application of concepts from multiple co
 
 ## Credits
 - **OPIT Professors**:
-  - Prof. Fatma Meawad (Introduction Software Engineering)
-  - Prof. Lokesh Vij (Cloud Computing & Cloud Development)
+  - [Prof. Fatma Meawad](https://www.linkedin.com/in/fmeawad/) (Introduction Software Engineering)
+  - [Prof. Lokesh Vij](https://www.linkedin.com/in/lokeshvij/) (Cloud Computing & Cloud Development)
 - **Technologies**:
   - [Postman Student Expert Program](https://www.postman.com/student-program/student-expert/)
   - [Hugging Face](https://huggingface.co/)
