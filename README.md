@@ -45,7 +45,7 @@ AI-Super-App/
   - Code organization and modularity
   - Error handling and user experience
   - API integration patterns
-- **Cloud Computing Concepts**: Implemented learning from Prof. Vij's courses:
+- **Cloud Computing & Cloud Development Concepts**: Implemented learning from Prof. Vij's courses:
   - Cloud deployment strategies
   - Environment configuration
   - Service integration
@@ -111,6 +111,7 @@ AI-Super-App/
 
 ## Academic Integration
 This project demonstrates the practical application of concepts from multiple courses:
+- **Postman Student Expert Program**: API testing and documentation, building a text summarizer application, understanding request/response cycles
 - **Introduction to Software Engineering**: Code organization, testing, and documentation
 - **Cloud Computing & Cloud Development**: Deployment strategies and service integration
 - **AWS Certification Journey**: Applied knowledge from Cloud Practitioner and preparation for Solutions Architect Associate
